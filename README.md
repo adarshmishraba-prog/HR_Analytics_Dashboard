@@ -6,13 +6,6 @@ The dashboard provides insights into attrition by gender, age, salary, education
 
 ---
 
-## 📊 Dashboard Preview
-Below is the screenshot of the HR Analytics Dashboard:
-
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
-
----
-
 ## 🎯 Key Learnings
 Through this HR analytics project, the following insights and improvements were achieved:
 
