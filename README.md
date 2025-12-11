@@ -1,5 +1,7 @@
 # HR Analytics Dashboard | Power BI
 
+Direct Power BI Link - https://app.powerbi.com/view?r=eyJrIjoiOWVkZjM4YzItZTU1YS00Mzc1LWJiYWItNDExZDBhMDUxOTdlIiwidCI6IjQ2Y2E5NjJiLWEzMDYtNDlmMS04NGU5LTRmNWU4YjFlOGRhMCJ9
+
 ## 📌 Objective
 The objective of this project is to help the organization improve employee performance and reduce attrition (employee turnover) by building an interactive **HR Analytics Dashboard** in Power BI.  
 The dashboard provides insights into attrition by gender, age, salary, education, job role, and years of experience.
